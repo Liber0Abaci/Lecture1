@@ -7,14 +7,14 @@ p {
 	text-align: left;
 }
 div {
-	background-color: rgb(79,8,38);
+	background-color: gray;
 	color: white;
-	height: 400px;
+	height: 1400px;
 	width: 600px;
 	font-size: 14px;
 	font-family: sans-serif;
 	font-weight: bold;
-	border: 30px solid magenta;
+	border: 30px solid white;
 
 }
 table {
@@ -36,4 +36,9 @@ td {
 	color: black;
 	background-color: lightgray;
 
+}
+
+.artee {
+	color: red;
+	font-size: 20px;
 }
