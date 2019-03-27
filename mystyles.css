@@ -3,10 +3,11 @@ h1 {
 	text-align: center;
 }
 p {
-	color: orange;
+	color: white;
 	text-align: left;
 }
 div {
+	text-align: center;
 	background-color: gray;
 	color: white;
 	height: 1400px;
